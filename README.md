@@ -1,13 +1,13 @@
 # \[Group name\]
 
 **Group members:**
-- A
-- B
-- C
+- Silke Kofoed Christiansen
+- Emil Bille
+- Carl Adrian Møller
 
 This repository contains  
-1. Inaugural project. 
-2. Data project. We fetch data from **source x** on **y** and show that ...
+1. Data folder - 
+2. Results.ipynb - Notebook used to g
 3. Model project. We model ...
 
 # Data analysis project
