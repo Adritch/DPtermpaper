@@ -14,7 +14,7 @@ This repository contains
 
 # Data analysis project
 
-Our project is titled **PROJECT TITLE** and is about EXPLAIN.
+Our project is titled **Valuing American Options by Simulation: Least Squares Monte Carlo**.
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
