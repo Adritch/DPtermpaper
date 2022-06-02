@@ -14,7 +14,7 @@ This repository contains
 
 # Valuing American Options by Simulation: Least Squares Monte Carlo
 
-Our project is titled **Valuing American Options by Simulation: Least Squares Monte Carlo**. We investigate the well known Least Squares monte carlo approach to valuing american type options. We manage to reproduce their original results well, given we dont have their seed number. In order to reduce computational speed and memory requirement for large simulations, we implement a brownian bridge simulation technique into the original LSM algorithm. We improve computational speed greatly, and also obtain robust results.
+Our project is titled **Valuing American Options by Simulation: Least Squares Monte Carlo**. We investigate the well known Least Squares monte carlo approach for valuing american type options. We manage to reproduce their original results well, given we dont have their seed number. In order to reduce computational speed and memory requirement for large simulations, we implement a brownian bridge simulation technique into the original LSM algorithm. We improve computational speed greatly, and also obtain robust results.
 
 The **results** (tables, figures) of the project can be seen from running [Results.ipynb](Results.ipynb).
 
