@@ -1,4 +1,4 @@
-# \[Group name\]
+# \[Term Paper\]
 
 **Group members:**
 - Silke Kofoed Christiansen
@@ -11,6 +11,7 @@ This repository contains
 3. simulations.ipynb - Notebook used to generate results based on the optionpricingclass and utility functions
 4. optionpricing - Contains the OptionPricingClass
 5. utility.py - various functions used to generate the results
+6. How the LSM works.ipynb - Notebook illustrating how the LSM algorithm works
 
 # Data analysis project
 
