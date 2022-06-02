@@ -9,9 +9,8 @@ This repository contains
 1. Output folder - Results from running simulations.ipynb
 2. Results.ipynb - Notebook where all results are displayed (loaded from data folder)
 3. simulations.ipynb - Notebook used to generate results based on the optionpricingclass and utility functions
-4. optionpricing - Contains the OptionPricingClass
-5. utility.py - various functions used to generate the results
-6. How the LSM works.ipynb - Notebook illustrating how the LSM algorithm works
+4. optionpricing - Contains the OptionPricingClass and various functions used to generate the results
+5. How the LSM works.ipynb - Notebook illustrating how the LSM algorithm works
 
 # Valuing American Options by Simulation: Least Squares Monte Carlo
 
