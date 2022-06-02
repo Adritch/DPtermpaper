@@ -1,4 +1,4 @@
-# \[Term Paper\]
+# Term Paper
 
 **Group members:**
 - Silke Kofoed Christiansen
