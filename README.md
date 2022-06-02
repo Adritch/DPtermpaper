@@ -13,7 +13,7 @@ This repository contains
 5. utility.py - various functions used to generate the results
 6. How the LSM works.ipynb - Notebook illustrating how the LSM algorithm works
 
-# Data analysis project
+# Valuing American Options by Simulation: Least Squares Monte Carlo
 
 Our project is titled **Valuing American Options by Simulation: Least Squares Monte Carlo**. We investigate the well known Least Squares monte carlo approach to valuing american type options. We manage to reproduce their original results well, given we dont have their seed number. In order to reduce computational speed and memory requirement for large simulations, we implement a brownian bridge simulation technique into the original LSM algorithm. We improve computational speed greatly, and also obtain robust results.
 
