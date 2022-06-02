@@ -6,11 +6,11 @@
 - Carl Adrian Møller
 
 This repository contains  
-1. Output folder - Results from running simulations.ipynb
-2. Results.ipynb - Notebook where all results are displayed (loaded from data folder)
+1. Data folder - Results from running simulations.ipynb
+2. results.ipynb - Notebook where all results are displayed (loaded from data folder)
 3. simulations.ipynb - Notebook used to generate results based on the optionpricingclass and utility functions
 4. optionpricing - Contains the OptionPricingClass and various functions used to generate the results
-5. How the LSM works.ipynb - Notebook illustrating how the LSM algorithm works
+5. how the LSM works.ipynb - Notebook illustrating how the LSM algorithm works
 
 # Valuing American Options by Simulation: Least Squares Monte Carlo
 
