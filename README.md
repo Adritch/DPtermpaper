@@ -16,7 +16,7 @@ This repository contains
 
 Our project is titled **Valuing American Options by Simulation: Least Squares Monte Carlo**. We investigate the well known Least Squares monte carlo approach to valuing american type options. We manage to reproduce their original results well, given we dont have their seed number. In order to reduce computational speed and memory requirement for large simulations, we implement a brownian bridge simulation technique into the original LSM algorithm. We improve computational speed greatly, and also obtain robust results.
 
-The **results** of the project can be seen from running [Results.ipynb](Results.ipynb).
+The **results** (tables, figures) of the project can be seen from running [Results.ipynb](Results.ipynb).
 
 **Dependencies:** Apart from a standard Anaconda Python 3 installation, the project requires the following installations:
 
