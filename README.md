@@ -7,8 +7,10 @@
 
 This repository contains  
 1. Data folder - 
-2. Results.ipynb - Notebook used to g
-3. Model project. We model ...
+2. Results.ipynb - Notebook where all results are displayed (loaded from data folder)
+3. simulations.ipynb - Notebook used to generate results based on the optionpricingclass and utility functions
+4. optionpricing - Contains the OptionPricingClass
+5. utility.py - various functions used to generate the results
 
 # Data analysis project
 
